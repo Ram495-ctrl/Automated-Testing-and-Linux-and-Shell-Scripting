@@ -123,4 +123,53 @@ git commit & push
 Text File Analysis:
 Write a script that takes a text file as an argument and counts the number of lines, words, and characters in the file. The script should display the counts.
 
+nano tex_file_analysis.sh 
+
+![textfileanalysis](https://github.com/user-attachments/assets/2a33ade4-54bc-48a9-a409-354ebb97ee97)
+
+git commit & push
+
+![textfileanalysis_push](https://github.com/user-attachments/assets/955af1ab-3110-460a-8165-40f64b4b6799)
+
+**Problem statement 9**:
+
+System Information Report:
+Write a script that generates a system information report. The report should include:
+
+System uptime
+
+Memory usage
+
+CPU load
+
+Disk usage
+
+Running processes
+
+The report should be saved to a file named system_report.txt.
+
+nano sys_info_report.sh
+![systemreport](https://github.com/user-attachments/assets/5a881aaa-6570-4293-b8cf-00bec4493cd2)
+
+
+git commit & push
+![systemreport_push](https://github.com/user-attachments/assets/e6fe6dd6-53f6-4745-84df-5c0000b023dc)
+
+**Problem statement 10**:
+
+Simple Calculator:
+Write a script that acts as a simple calculator. The script should prompt the user to enter two numbers and an operator (+, -, *, /) and then display the result of the operation.
+
+nano calculator_Ram.sh
+
+![ram_calc](https://github.com/user-attachments/assets/c77705ce-c31c-4675-bcce-7c11e2f2bc5e)
+
+git commit & push
+
+![ram_calc_push](https://github.com/user-attachments/assets/99319649-17d3-4480-af88-ffabaf4ce3f1)
+
+
+**Authors**
+
+Rama Srinivas Tekumalla
 
