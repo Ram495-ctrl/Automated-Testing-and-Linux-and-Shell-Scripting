@@ -4,6 +4,7 @@
 Objective: This assignment is designed to test your proficiency in writing and understanding Bash scripts. Please write scripts to solve each of the following problems. Make sure your scripts are executable and well-documented with comments.
 
 Create a Directory Structure:
+
 Write a script that creates the following directory structure:
 
 /home/user/
@@ -34,6 +35,7 @@ git commit & push to main
 <h1> Problem statement 2: <h1>
 
 File Backup:
+
 Write a script that takes a directory as an argument and creates a backup of all .txt files in that directory. The backup files should be copied to a new directory named backup with a timestamp.
 
 nano automated_back_seup_Cronjob
@@ -47,6 +49,7 @@ Git commit & push
 <h1> Problem statement 3: <h1>
 
 User Information:
+
 Write a script that displays the following information about the user:
 
 Username
@@ -70,6 +73,7 @@ Git push
 <h1> Problem statement 4: <h1>
 
 Disk Usage Alert:
+
 Write a script that checks the disk usage of the root filesystem. If the disk usage is above 80%, the script should send an email alert to the system administrator.
 
 nano disk_usage.sh
@@ -83,6 +87,7 @@ Git commit & push
 <h1> Problem statement 5: <h1>
 
 File Permission Checker:
+
 Write a script that takes a file as an argument and checks if the file has read, write, and execute permissions. The script should display appropriate messages for each permission.
 
 nano file_permission.sh
@@ -95,6 +100,7 @@ git commit & push
 <h1> Problem statement 6: <h1>
 
 Automated Backup:
+
 Write a script that compresses the /home/user/documents directory into a tarball named documents_backup.tar.gz and moves it to the /home/user/backup directory. This script should be scheduled to run daily using cron.
 
 nano automated_backup.sh
@@ -108,6 +114,7 @@ git commit & push
 <h1> Problem statement 7: <h1>
 
 Process Monitor:
+
 Write a script that checks if a specific process (e.g., apache2) is running. If the process is not running, the script should start the process and log the action to a file.
 
 nano monitor.sh
@@ -121,6 +128,7 @@ git commit & push
 <h1> Problem statement 8: <h1>
 
 Text File Analysis:
+
 Write a script that takes a text file as an argument and counts the number of lines, words, and characters in the file. The script should display the counts.
 
 nano tex_file_analysis.sh 
@@ -134,6 +142,7 @@ git commit & push
 <h1> Problem statement 9: <h1>
 
 System Information Report:
+
 Write a script that generates a system information report. The report should include:
 
 System uptime
@@ -158,6 +167,7 @@ git commit & push
 <h1> Problem statement 10: <h1>
 
 Simple Calculator:
+
 Write a script that acts as a simple calculator. The script should prompt the user to enter two numbers and an operator (+, -, *, /) and then display the result of the operation.
 
 nano calculator_Ram.sh
