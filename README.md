@@ -59,5 +59,17 @@ Home Directory
 
 Shell being used
 
+nano user_info.sh
+
+![user_info](https://github.com/user-attachments/assets/861b1eb5-e781-4006-b297-260af996243e)
+
+Git push
+
+![user_info_push](https://github.com/user-attachments/assets/e68f47e8-a273-4ad1-8b96-fdf11fe38ab4)
+
+**Problem statement 4**:
+
 Disk Usage Alert:
 Write a script that checks the disk usage of the root filesystem. If the disk usage is above 80%, the script should send an email alert to the system administrator.
+
+
