@@ -72,4 +72,17 @@ Git push
 Disk Usage Alert:
 Write a script that checks the disk usage of the root filesystem. If the disk usage is above 80%, the script should send an email alert to the system administrator.
 
+nano disk_usage.sh
+
+![Disk_usage](https://github.com/user-attachments/assets/ef287ed3-6440-4a27-882e-70d7ff39251f)
+
+Git commit & push
+
+![Disk_usage_push](https://github.com/user-attachments/assets/533074e9-9b0d-4f6c-a827-2686ec66082b)
+
+**Problem statement 5**:
+
+File Permission Checker:
+Write a script that takes a file as an argument and checks if the file has read, write, and execute permissions. The script should display appropriate messages for each permission.
+
 
