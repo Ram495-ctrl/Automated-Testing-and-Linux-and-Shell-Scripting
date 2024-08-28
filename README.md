@@ -52,15 +52,15 @@ User Information:
 
 Write a script that displays the following information about the user:
 
-Username
+* Username
 
-User ID
+* User ID
 
-Group ID
+* Group ID
 
-Home Directory
+* Home Directory
 
-Shell being used
+* Shell being used
 
 nano user_info.sh
 
@@ -145,15 +145,15 @@ System Information Report:
 
 Write a script that generates a system information report. The report should include:
 
-System uptime
+* System uptime
 
-Memory usage
+* Memory usage
 
-CPU load
+* CPU load
 
-Disk usage
+* Disk usage
 
-Running processes
+* Running processes
 
 The report should be saved to a file named system_report.txt.
 
@@ -181,5 +181,5 @@ git commit & push
 
 <h1> Authors <h1>
 
-Rama Srinivas Tekumalla
+* Rama Srinivas Tekumalla
 
