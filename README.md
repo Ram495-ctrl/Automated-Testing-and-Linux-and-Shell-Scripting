@@ -85,4 +85,42 @@ Git commit & push
 File Permission Checker:
 Write a script that takes a file as an argument and checks if the file has read, write, and execute permissions. The script should display appropriate messages for each permission.
 
+nano file_permission.sh
+
+![file_permission_checker](https://github.com/user-attachments/assets/17880677-cc73-486f-b10f-6d4c4cba8b3d)
+
+git commit & push
+![file_permission_checker_push](https://github.com/user-attachments/assets/c00fd412-c90f-4c37-a010-76e95122fea8)
+
+**Problem statement 6**:
+
+Automated Backup:
+Write a script that compresses the /home/user/documents directory into a tarball named documents_backup.tar.gz and moves it to the /home/user/backup directory. This script should be scheduled to run daily using cron.
+
+nano automated_backup.sh
+
+![automatedbacku](https://github.com/user-attachments/assets/76f025ad-6209-4af3-942e-dc05a16ec6dd)
+
+git commit & push
+
+![gitautomatedbackup_push](https://github.com/user-attachments/assets/dc854a2e-1289-444f-8a00-93c5d0665880)
+
+**Problem statement 7**:
+
+Process Monitor:
+Write a script that checks if a specific process (e.g., apache2) is running. If the process is not running, the script should start the process and log the action to a file.
+
+nano monitor.sh
+
+![processmonitor](https://github.com/user-attachments/assets/764af750-c9a3-4471-8444-dab7221ff8c4)
+
+git commit & push
+
+![processmonitorpush](https://github.com/user-attachments/assets/18efce6d-45e2-4733-9d86-70559275baef)
+
+**Problem statement 8**:
+
+Text File Analysis:
+Write a script that takes a text file as an argument and counts the number of lines, words, and characters in the file. The script should display the counts.
+
 
